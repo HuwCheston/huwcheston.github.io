@@ -7,11 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Huw, and I'm a PhD student at the [Centre for Music and Science](https://cms.mus.cam.ac.uk/), University of Cambridge. I'm interested in what computer modelling and large-scale data analysis can teach us about the ways in which humans create, understand, and engage with music and culture.
+<img src="/images/profile-landscape.png" width="90%" height="90%">
+
+***Hi!*** I'm Huw, and I'm a PhD student at the [Centre for Music and Science](https://cms.mus.cam.ac.uk/), University of Cambridge. I'm interested in what **computer modelling** and large-scale **data analysis** can teach us about the ways in which humans **create, understand, and engage with music and culture**.
 
 ## Research
 
-I use large-scale quantitative and computational methods to investigate systems of production and classification in music: how people make music together, and how the music that they make can be understood and categorised. Most of my previous work has focussed on [improvised music](https://en.wikipedia.org/wiki/Musical_improvisation), especially jazz, where I have written on subjects including performer identification, style classification, and action coordination. My work draws on techniques from music information retrieval, audio signal processing, machine learning, data science, and corpus analysis. I am also interested in the development of reusable technologies and datasets that can be applied by researchers across a broad variety of domains relating to music and audio.
+I use large-scale quantitative and computational methods to investigate systems of production and classification in music: how people make music together, and how the music that they make can be understood and categorised. Most of my previous work has focussed on [improvised music](https://en.wikipedia.org/wiki/Musical_improvisation), especially jazz, where I have written on subjects including performer identification, style classification, and action coordination. This work has drawn on techniques from music information retrieval, audio signal processing, machine learning, data science, and corpus analysis. I am also interested in the development of reusable technologies and datasets that can be applied by researchers across a broad variety of domains relating to music and audio.
 
 ## Background
 
