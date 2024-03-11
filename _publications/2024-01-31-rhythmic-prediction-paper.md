@@ -1,6 +1,6 @@
 ---
 title: "Rhythmic Qualities of Jazz Improvisation Predict Performer Identity and Style in Source-Separated Audio Recordings."
-collection: publications
+collection: preprints
 excerpt: 'We demonstrate that a supervised learning model trained solely on rhythmic features extracted from 300 source-separated audio recordings of jazz pianists was capable of identifying the performer in 52% of cases, over five times better than chance.'
 date: 2024-01-31
 venue: 'PsyArXiv'

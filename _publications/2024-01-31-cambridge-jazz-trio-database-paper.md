@@ -1,6 +1,6 @@
 ---
 title: "Cambridge Jazz Trio Database: Automated Timing Annotation of Jazz Piano Trio Recordings Processed Using Audio Source Separation"
-collection: publications
+collection: preprints
 excerpt: 'We introduce the Cambridge Jazz Trio Database, a dataset of 12 hours of jazz piano trio recordings with automatically generated timing annotations for every performer (piano soloist, bass and drums accompaniment) in the ensemble.'
 date: 2024-01-31
 venue: 'PsyArXiv'

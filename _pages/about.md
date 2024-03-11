@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Huw, and I'm a PhD student at the [Centre for Music and Science](https://cms.mus.cam.ac.uk/), University of Cambridge. I'm interested in how computer modelling and large-scale data analysis can enable us to learn more about how humans create and understand art, with a specific focus on music and audio.
+Hi! I'm Huw, and I'm a PhD student at the [Centre for Music and Science](https://cms.mus.cam.ac.uk/), University of Cambridge. I'm interested in what computer modelling and large-scale data analysis can tell us about the ways in which humans create and understand art, with a specific focus on music and audio.
 
 ## My research
 
