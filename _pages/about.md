@@ -11,7 +11,7 @@ Hi! I'm Huw, and I'm a PhD student at the [Centre for Music and Science](https:/
 
 ## Research
 
-I use large-scale quantitative and computational methods to investigate systems of production and classification in music: how people make music together, and how the music that they make can be understood and categorised. Most of my previous work has focussed on [musical improvisation](https://en.wikipedia.org/wiki/Musical_improvisation), especially jazz and freely improvised music, where I have written on subjects including performer identification, style classification, and action coordination. My work often draws on techniques from music information retrieval, audio signal processing, machine learning, data science, and corpus analysis. I am also interested in the development of reusable technologies and datasets that can be applied by researchers across a broad variety of domains relating to music and audio.
+I use large-scale quantitative and computational methods to investigate systems of production and classification in music: how people make music together, and how the music that they make can be understood and categorised. Most of my previous work has focussed on [musical improvisation](https://en.wikipedia.org/wiki/Musical_improvisation), especially jazz and freely improvised music, where I have written on subjects including performer identification, style classification, and action coordination. My work draws on techniques from music information retrieval, audio signal processing, machine learning, data science, and corpus analysis. I am also interested in the development of reusable technologies and datasets that can be applied by researchers across a broad variety of domains relating to music and audio.
 
 ## Background
 
