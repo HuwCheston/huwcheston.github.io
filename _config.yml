@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Huw Cheston / Personal Website"
+title                    : "Huw Cheston"
 title_separator          : "-"
 name                     : &name "Huw Cheston"
 description              : &description "personal website"
@@ -26,7 +26,7 @@ author:
   pronouns         : "he/him"
   bio              : "Computational modelling and analysis of musical improvisation"
   location         : "Cambridge"
-  employer         : "Centre for Music and Science, University of Cambridge"
+  employer         : "University of Cambridge"
   uri              : "https://cms.mus.cam.ac.uk/phd-students"
   email            : "hwc31@cam.ac.uk"
 
