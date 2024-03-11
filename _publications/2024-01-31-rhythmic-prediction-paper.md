@@ -1,10 +1,12 @@
 ---
 title: "Rhythmic Qualities of Jazz Improvisation Predict Performer Identity and Style in Source-Separated Audio Recordings."
-collection: preprints
+collection: publications
+preprint: true
 excerpt: 'We demonstrate that a supervised learning model trained solely on rhythmic features extracted from 300 source-separated audio recordings of jazz pianists was capable of identifying the performer in 52% of cases, over five times better than chance.'
 date: 2024-01-31
 venue: 'PsyArXiv'
 paperurl: 'https://doi.org/10.31234/osf.io/txy2f'
+imgurl: 'https://huwcheston.github.io/publications/2024-01-31-rhythmic-prediction-paper_img.png'
 citation: 'Cheston, H., Schlichting, J. S., Cross, I., & Harrison, P. M. C. (2024). &quot;Rhythmic Qualities of
 Jazz Improvisation Predict Performer Identity and Style in Source-Separated Audio Recordings.&quot;
 <i>PsyArXiv.</i>'
