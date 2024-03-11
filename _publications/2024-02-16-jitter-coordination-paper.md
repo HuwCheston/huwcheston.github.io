@@ -5,7 +5,7 @@ preprint: false
 excerpt: 'We show that five duos of professional jazz musicians adopt diverse strategies when confronted by the difficulties of coordinating performances over a network — difficulties that are not exclusive to networked performance, but are also present in other situations (such as when coordinating performances over large physical spaces).'
 date: 2024-02-16
 venue: 'Music Perception'
-imgurl: 'https://huwcheston.github.io/publications/2024-02-16-jitter-coordination-paper_img.png'
+imgurl: '/images/jitter-coordination_img.png'
 citation: 'Cheston, H., Cross, I., & Harrison, P. M. C. (2024, in press). &quot;Trade-offs in Coordination Strategies
 for Duet Jazz Performances Subject to Network Delay and Jitter.&quot; <i>Music Perception</i>.'
 ---

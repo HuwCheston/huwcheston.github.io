@@ -6,7 +6,7 @@ excerpt: 'We introduce the Cambridge Jazz Trio Database, a dataset of 12 hours o
 date: 2024-01-31
 venue: 'PsyArXiv'
 paperurl: 'https://doi.org/10.31234/osf.io/jyqp3'
-imgurl: 'https://huwcheston.github.io/publications/2024-01-31-cambridge-jazz-trio-database-paper_img.png'
+imgurl: '/images/trio-database_img.png'
 citation: 'Cheston, H., Schlichting, J. S., Cross, I., & Harrison, P. M. C. (2024). &quot;Cambridge Jazz Trio
 Database: Automated Timing Annotation of Jazz Piano Trio Recordings Processed Using Audio
 Source Separation.&quot; <i>PsyArXiv</i>.'

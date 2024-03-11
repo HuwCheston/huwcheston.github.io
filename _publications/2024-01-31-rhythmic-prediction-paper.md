@@ -6,7 +6,7 @@ excerpt: 'We demonstrate that a supervised learning model trained solely on rhyt
 date: 2024-01-31
 venue: 'PsyArXiv'
 paperurl: 'https://doi.org/10.31234/osf.io/txy2f'
-imgurl: 'https://huwcheston.github.io/publications/2024-01-31-rhythmic-prediction-paper_img.png'
+imgurl: '/images/pianist-prediction_img.png'
 citation: 'Cheston, H., Schlichting, J. S., Cross, I., & Harrison, P. M. C. (2024). &quot;Rhythmic Qualities of
 Jazz Improvisation Predict Performer Identity and Style in Source-Separated Audio Recordings.&quot;
 <i>PsyArXiv.</i>'
