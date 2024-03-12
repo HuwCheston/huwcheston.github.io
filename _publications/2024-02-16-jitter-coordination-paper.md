@@ -10,7 +10,7 @@ citation: 'Cheston, H., Cross, I., & Harrison, P. M. C. (2024, in press). &quot;
 for Duet Jazz Performances Subject to Network Delay and Jitter.&quot; <i>Music Perception</i>.'
 ---
 
-![Coordination Strategies Image]({{ site.baseurl }}images/jitter-coordination_img.png)
+<img src='/images/jitter-coordination_img.png'>
 
 [![Dataset](http://img.shields.io/badge/Dataset-DOI:_10.5281/zenodo.7773824-blue)](https://doi.org/10.5281/zenodo.7773824) [![Preprint](http://img.shields.io/badge/Preprint-DOI:_10.31234/osf.io/z8c7w-blue)](https://doi.org/10.31234/osf.io/z8c7w) <br>
 [![Code](http://img.shields.io/badge/Code-available_on_GitHub-purple)](https://github.com/HuwCheston/Jazz-Jitter-Analysis) [![Documentation](http://img.shields.io/badge/Documentation-available_on_GitHub-purple)](https://huwcheston.github.io/Jazz-Jitter-Analysis/)

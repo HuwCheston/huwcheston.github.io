@@ -12,7 +12,7 @@ Database: Automated Timing Annotation of Jazz Piano Trio Recordings Processed Us
 Source Separation.&quot; <i>PsyArXiv</i>.'
 ---
 
-![Jazz Database Image]({{ site.baseurl }}images/trio-database_img.png)
+<img src='/images/trio-database-explorer_img.png'>
 
 [![Preprint](http://img.shields.io/badge/Preprint-DOI:_10.31234/osf.io/jyqp3-blue)](https://doi.org/10.31234/osf.io/jyqp3) <br>
 [![Code](http://img.shields.io/badge/Code-available_on_GitHub-purple)](https://github.com/HuwCheston/Cambridge-Jazz-Trio-Database) [![Documentation](http://img.shields.io/badge/Documentation-available_on_GitHub-purple)](https://huwcheston.github.io/Cambridge-Jazz-Trio-Database/)

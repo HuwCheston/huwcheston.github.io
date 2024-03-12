@@ -12,11 +12,7 @@ Jazz Improvisation Predict Performer Identity and Style in Source-Separated Audi
 <i>PsyArXiv.</i>'
 ---
 
-![Rhythmic Prediction Image]({{ site.baseurl }}images/pianist-prediction_img.png)
-
-**Run the model on your own tracks online!** <a target="_blank" href="https://colab.research.google.com/github/HuwCheston/Cambridge-Jazz-Trio-Database/blob/main/example.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
+<img src='/images/pianist-prediction_img.png'>
 
 [![Preprint](http://img.shields.io/badge/Preprint-DOI:_10.31234/osf.io/txy2f-blue)](https://doi.org/10.31234/osf.io/txy2f) <br>
 [![Code](http://img.shields.io/badge/Code-available_on_GitHub-purple)](https://github.com/HuwCheston/Cambridge-Jazz-Trio-Database) [![Documentation](http://img.shields.io/badge/Documentation-available_on_GitHub-purple)](https://huwcheston.github.io/Cambridge-Jazz-Trio-Database/)
