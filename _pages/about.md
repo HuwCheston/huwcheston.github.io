@@ -9,7 +9,7 @@ redirect_from:
 
 <img src="/images/profile-landscape.png" width="90%" height="90%">
 
-I'm Huw, and I'm a PhD student at the [Centre for Music and Science](https://cms.mus.cam.ac.uk/), University of Cambridge. I'm interested in what large-scale **computer modelling** and **data analysis** can teach us about the ways in which humans **create, understand, and engage with music and art**.
+I'm Huw, and I'm a PhD student at the [Centre for Music and Science](https://cms.mus.cam.ac.uk/), University of Cambridge, currently taking part in a 3-month research internship at [Spotify](https://research.atspotify.com/). I'm interested in what large-scale **computer modelling**, **data analysis**, and **artificial intelligence** can teach us about the ways in which humans **create, understand, and engage with music and art**.
 
 ## Research
 
