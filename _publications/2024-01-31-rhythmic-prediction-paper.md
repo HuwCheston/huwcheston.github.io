@@ -1,15 +1,13 @@
 ---
 title: "Rhythmic Qualities of Jazz Improvisation Predict Performer Identity and Style in Source-Separated Audio Recordings."
 collection: publications
-preprint: true
+preprint: false
 excerpt: 'We demonstrate that a supervised learning model trained solely on rhythmic features extracted from 300 source-separated audio recordings of jazz pianists was capable of identifying the performer in 52% of cases, over five times better than chance.'
 date: 2024-01-31
-venue: 'PsyArXiv'
+venue: 'Royal Society Open Science'
 paperurl: 'https://doi.org/10.31234/osf.io/txy2f'
 imgurl: '/images/pianist-prediction_img.png'
-citation: 'Cheston, H., Schlichting, J. S., Cross, I., & Harrison, P. M. C. (2024). &quot;Rhythmic Qualities of
-Jazz Improvisation Predict Performer Identity and Style in Source-Separated Audio Recordings.&quot;
-<i>PsyArXiv.</i>'
+citation: 'Cheston, H., Schlichting, J. S., Cross, I., & Harrison, P. M. C. Rhythmic Qualities of Jazz Improvisation Predict Performer Identity and Style in Source-Separated Audio Recordings. <i>Royal Society Open Science</i>. 2024 (accepted, subject to minor revisions)'
 ---
 
 <img src='/images/pianist-prediction_img.png'>
@@ -17,4 +15,4 @@ Jazz Improvisation Predict Performer Identity and Style in Source-Separated Audi
 [![Preprint](http://img.shields.io/badge/Preprint-DOI:_10.31234/osf.io/txy2f-blue)](https://doi.org/10.31234/osf.io/txy2f) <br>
 [![Code](http://img.shields.io/badge/Code-available_on_GitHub-purple)](https://github.com/HuwCheston/Cambridge-Jazz-Trio-Database) [![Documentation](http://img.shields.io/badge/Documentation-available_on_GitHub-purple)](https://huwcheston.github.io/Cambridge-Jazz-Trio-Database/)
 
-Great musicians have a style that is uniquely their own. This is especially true in jazz, where experts are often capable of identifying a particular performer’s improvisation style simply by listening to their recordings. Designing a computational model that can perform the same task is a challenging prospect, as it forces us to quantify the intuitions that these experts have built up over many years, and may be unable to express verbally. To do so, we must think carefully about the areas in which performance styles are likely to differ most substantially. One possibility is that musicians may vary in terms of the rhythmic and temporal qualities of their improvisations. We demonstrate that a supervised learning model trained solely on rhythmic features extracted from 300 source-separated audio recordings of jazz pianists was capable of identifying the performer in 52% of cases, over five times better than chance. The strongest predictors related to a performer’s “feel” (ensemble synchronization) and “swing” (characteristic subdivision of the pulse into long and short intervals). Further analysis revealed the presence of two clusters of pianists, identified as “impressionist” and “blues” improvisation styles, with performers in the same cluster sharing similar levels of rhythmic complexity and synchronization. Our findings demonstrate the importance of rhythm in defining a musician’s unique improvisational style, with interesting implications for pedagogy. They also highlight the possibility that artificial intelligence can be used to perform musical style identification tasks normally reserved for expert listeners, with broad applications to stylometry and authorship attribution.
+Great musicians have a unique style and, with training, humans can learn to distinguish between these styles. Designing a computational model that can accomplish this task is a challenge in music information retrieval research, as it may require us to think about the areas in which two performers are likely to differ. One possibility is that musicians may vary in terms of their use of rhythm – which, unlike harmony, melody, or timbre, has relevance to any instrument. We demonstrate that a supervised learning  model trained solely on rhythmic features extracted from 300 recordings of ten jazz pianists correctly identified the performer in 59% of cases, six times better than chance. The most important features related to a performer’s “feel” (ensemble synchronization), “complexity” (information density), and “swing” (characteristic subdivision of the musical pulse). Further analysis revealed two clusters of performers, with those in the same cluster demonstrating similar rhythmic traits. Our findings highlight the possibility that artificial intelligence can perform performer identification tasks normally reserved for experts. Links to each recording and the corresponding predictions are available [on an interactive map](https://huwcheston.github.io/Jazz-Trio-Database/_static/prediction-app.html) to support future work in stylometry.
