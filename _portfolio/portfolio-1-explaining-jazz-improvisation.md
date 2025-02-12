@@ -1,6 +1,6 @@
 ---
 title: "Teaching jazz improvisation with machine learning"
-excerpt: "A web application that uses a variety of <b>machine learning</b> models to intuitively show differences in style between 20 famous jazz musicians.<br><img src='/images/understanding-improvisation_img.png'>"
+excerpt: "A web application that uses a variety of <b>machine learning</b> models to intuitively show differences in style between 20 famous jazz musicians.<br><img src='/images/explainable_jazz_img.png'>"
 collection: portfolio
 ---
 
