@@ -1,5 +1,5 @@
 ---
-title: "Music Performance Manipulation Software"
+title: "Music performance manipulation software"
 excerpt: "A new software platform for introducing <b>controlled manipulations</b> into multiple <b>synchronised audio-video feeds</b> during an experiment <br><br/><img src='/images/jitter-coordination_img.png'>"
 collection: portfolio
 ---

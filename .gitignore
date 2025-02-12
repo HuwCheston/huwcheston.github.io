@@ -1,6 +1,7 @@
 # Ignore the contents of the _site directory
-_site/
-.idea
+/_site/
+/.idea/
+/_deprecated/    # ignore old materials
 
 # Ignore the Gemfile that is generated
 Gemfile.lock
@@ -8,3 +9,4 @@ Gemfile.lock
 # Ingore files created by npm
 node_modules
 package-lock.json
+/_deprecated/portfolio-5-performance-science-teaching.md

@@ -1,5 +1,5 @@
 ---
-title: "Teaching: Introduction to Music & Science workshop"
+title: "Teaching: introduction to music & science workshop"
 excerpt: "Teaching materials for pre-university level workshop, introducing a variety of <b>music information retrieval concepts</b> in <b>no-code interactive environments</b><br><img src='/images/sutton-trust-teaching_img.png'>"
 collection: portfolio
 ---
