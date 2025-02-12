@@ -1,10 +1,10 @@
 ---
 title: "Teaching jazz improvisation with machine learning"
-excerpt: "A web application that uses a variety of <b>machine learning</b> models to intuitively show differences in style between 20 famous jazz musicians.<br><img src='/images/understanding-improvisation_img.png'>"
+excerpt: "A web application that uses a variety of <b>machine learning</b> models to intuitively show differences in style between 20 famous jazz musicians.<br><img src='/images/understanding-improvisation_img.PNG'>"
 collection: portfolio
 ---
 
-<img src='/images/understanding-improvisation_img.png' href="https://huwcheston.github.io/ImprovID-app/index.html">
+<img src='/images/understanding-improvisation_img.PNG' href="https://huwcheston.github.io/ImprovID-app/index.html">
 
 [![Webapp](http://img.shields.io/badge/Explore_the_web_application-blue)](https://huwcheston.github.io/ImprovID-app/index.html) [![Code](http://img.shields.io/badge/Code-available_on_GitHub-purple)](https://github.com/HuwCheston/ImprovID-app)
 
