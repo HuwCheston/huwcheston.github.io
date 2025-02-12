@@ -24,14 +24,14 @@ author:
   avatar           : "profile.png"
   name             : "Huw Cheston"
   pronouns         : "he/him"
-  bio              : "Computational modelling and analysis of music"
+  bio              : "Music computing & data science"
   location         : "UK"
   employer         : "University of Cambridge"
   uri              : "https://cms.mus.cam.ac.uk/phd-students"
   email            : "hwc31@cam.ac.uk"
 
   # Academic websites
-  arxiv            : "https://osf.io/ycvug/"
+  arxiv            : "https://arxiv.org/search/cs?searchtype=author&query=Cheston,+H"
   googlescholar    : "https://scholar.google.com/citations?user=byas-BIAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-7891-5532"
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "huwcheston/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
