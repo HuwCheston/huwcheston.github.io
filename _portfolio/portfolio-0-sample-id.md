@@ -1,6 +1,6 @@
 ---
 title: "Identifying hip-hop samples with deep learning"
-excerpt: "Sampling involves reusing recorded music or sounds from another source and is common in genres like hip-hop and rap. We trained a deep learning model to identify samples in a large music catalog from Spotify and developed an interactive web application <br><img src='/images/sampleid-webapp_img.PNG'>"
+excerpt: "Sampling involves reusing recorded music or sounds from another source and is common in genres like hip-hop and rap. We trained a deep learning model to <b>identify samples in a large music catalog</b> from Spotify and developed an interactive web application to explore the predictions it made. <br><img src='/images/sampleid-webapp_img.PNG'>"
 collection: portfolio
 ---
 

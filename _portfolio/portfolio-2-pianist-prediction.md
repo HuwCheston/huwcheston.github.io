@@ -1,5 +1,5 @@
 ---
-title: "Jazz Performer Identification Model"
+title: "Jazz performer identification model"
 excerpt: "An automated pipeline that uses <b>deep-learning assisted audio signal processing</b> to <b>identify the performer</b> playing on a given jazz recording.<br><img src='/images/pianist-prediction_img.png'>"
 collection: portfolio
 ---
