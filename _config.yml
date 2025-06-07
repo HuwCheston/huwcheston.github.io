@@ -24,11 +24,10 @@ author:
   avatar           : "profile.png"
   name             : "Huw Cheston"
   pronouns         : "he/him"
-  bio              : "Music computing & data science"
-  location         : "UK"
-  employer         : "University of Cambridge"
-  uri              : "https://cms.mus.cam.ac.uk/phd-students"
-  email            : "hwc31@cam.ac.uk"
+  bio              : "Data scientist"
+  location         : "London, UK"
+  employer         : "QMUL & Colossal Sound"
+  email            : "huwcheston@gmail.com"
 
   # Academic websites
   arxiv            : "https://arxiv.org/search/cs?searchtype=author&query=Cheston,+H"
