@@ -11,7 +11,9 @@ redirect_from:
 
 I'm a data scientist based near London with broad interests across audio and music information retrieval and understanding.
 
-I currently hold two positions within industry and academia. I work part-time on machine learning research and development at [Colossal Sound](https://colossal.fm). Separately, I am also a part-time research assistant for [Iran Roman's](https://www.seresearch.qmul.ac.uk/cmai/people/iroman/) work into multimodal artificial intelligence at the School of Electronic and Engineering and Computer Science, Queen Mary University of London.
+I currently work as a research assistant & engineer at the School of Electronic and Engineering and Computer Science, Queen Mary University of London. Projects I contribute to include [Iran Roman's](https://www.seresearch.qmul.ac.uk/cmai/people/iroman/) work into multimodal artificial intelligence (collaboration with Meta) and the EPSRC-funded "AI Skills Through Music" project.
+
+Previously, I was a data scientist at [Colossal](https://colossal.sh/), working on an LLM-driven platform for building commerce websites. Before that, I completed my PhD in Music Computing at the Centre for Music and Science, University of Cambridge, and completed an internship in Spotify’s [Audio Intelligence lab](https://research.atspotify.com/audio-visual-intelligence).
 
 [Click here]({{ site.baseurl }}cv) to read my full CV.
 
